@@ -267,8 +267,6 @@
         </div>
     </section>
 
-
-
     <!-- Core Values Section -->
     <section class="w-full bg-gray-50 py-24">
         <div class="max-w-7xl mx-auto px-6">
