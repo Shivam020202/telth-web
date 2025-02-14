@@ -4,6 +4,7 @@
 
 @section('content')
 
+    {{-- ok --}}
     <!-- Banner Section -->
     <section class="relative max-h-[75vh] w-full overflow-hidden">
         <!-- Mobile Background (loads only on mobile) -->
