@@ -27,11 +27,11 @@
             <!-- Text Content -->
             <div class="max-w-2xl">
                 <h1 class="text-4xl md:text-6xl font-bold text-white mb-6 animate-fade-in">
-                    Welcome to Our Platform
+                    Welcome to Telth – The Future of Healthcare
                 </h1>
                 <p class="text-lg md:text-xl text-gray-200 mb-8 leading-relaxed">
-                    Discover amazing features and services that will transform your business.
-                    Join thousands of satisfied customers who have already made the switch.
+                    Unlock new possibilities with cutting-edge healthcare solutions that empower providers and patients
+                    alike. Join a global movement redefining the future of healthcare.
                 </p>
 
                 <!-- CTA Buttons -->
@@ -67,7 +67,7 @@
     <div class="bg-gradient-to-r from-blue-900 to-blue-800 text-white">
         <div class="container mx-auto py-3 px-4">
             <p class="text-center text-sm font-light tracking-wider">
-                "Innovating Today for a Better Tomorrow"
+                "Transforming Healthcare Today for a Healthier Tomorrow"
             </p>
         </div>
     </div>

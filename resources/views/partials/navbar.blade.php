@@ -12,7 +12,7 @@
                     class="absolute -inset-2 rounded-lg bg-gradient-to-r from-violet-600/20 to-indigo-600/20 blur-lg opacity-0 group-hover:opacity-100 transition-all duration-500">
                 </div>
                 <a href="/" class="relative flex items-center">
-                    {{-- <img src="https://mytelth.com/assets/telth_logo_white.png" alt="telth" class="w-6 h-6 mr-2"> --}}
+                    <img src="https://mytelth.com/assets/telth_logo_white.png" alt="telth" class="w-6 h-6 mr-2">
                     <span class="text-2xl font-bold text-gray-900">
                         {{ config('app.name', 'Telth.care') }}
                     </span>
