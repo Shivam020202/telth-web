@@ -5,3 +5,42 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.clip-diagonal {
+    clip-path: polygon(100% 0, 0% 0, 100% 100%);
+}
+
+.benefit-card {
+    position: relative;
+    width: 100%;
+}
+.left-align {
+    text-align: right;
+}
+.right-align {
+    text-align: left;
+}
+
+#gradient-cta-card {
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+#gradient-cta-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 2px;
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+}
+
+#gradient-border {
+    z-index: 0;
+}
+
+#gradient-cta-card > div:not(#gradient-border) {
+    position: relative;
+    z-index: 1;
+    background: white;
+}

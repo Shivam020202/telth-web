@@ -35,7 +35,9 @@
     @include('partials.navbar')
 
     <main class="">
-        @include('partials.directory')
+        @if (Request::path() != '/')
+            @include('partials.directory')
+        @endif
         @yield('content')
     </main>
 
